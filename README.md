@@ -85,6 +85,11 @@ pytest
 CI=true pytest
 ```
 
+## Run Flask
+```sh
+export FLASK_APP=web_app
+flask run
+```
 
 ## [Deploying](/DEPLOYING.md)
 
